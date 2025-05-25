@@ -1,6 +1,6 @@
 # 🧠 Trade Sentiment Analysis
 
-This project explores the relationship between **Bitcoin market sentiment** and **trader performance** using data from the **Bitcoin Fear & Greed Index** and **Hyperliquid's historical trading dataset**. The goal is to uncover insights that can support smarter trading strategies.
+This project explores the relationship between **market sentiment** and **trader performance** using data from the **Fear & Greed Index** and **Historical trading dataset**. The goal is to uncover insights that can support smarter trading strategies.
 
 ---
 
