@@ -62,25 +62,6 @@ This project explores the relationship between **market sentiment** and **trader
 
 ---
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/toyalmajhi/trade-sentiment-analysis.git
-   ```
-
-2. Navigate to the folder:
-   ```bash
-   cd trade-sentiment-analysis
-   ```
-
-3. Run the Jupyter notebook:
-   ```bash
-   jupyter notebook
-   ```
-
----
-
 ## 📌 Future Improvements
 
 - Include real-time sentiment analysis via APIs
